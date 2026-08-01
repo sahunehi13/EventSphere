@@ -218,7 +218,7 @@ main
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/EventSphere.git
+git clone https://github.com/sahunehi13/EventSphere.git
 ```
 
 ### Navigate to Project
