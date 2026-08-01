@@ -1,4 +1,4 @@
-# 🎉 EventSphere
+# 🎉 Convene
 
 ### Smart Campus Event & Club Management Platform
 
@@ -27,7 +27,7 @@
 
 # 📖 Project Overview
 
-EventSphere is a modern web platform designed to simplify campus event and club management. It provides a centralized system where students can discover events, register online, receive notifications, and track their participation, while organizers can efficiently create events, manage registrations, monitor attendance, and analyze engagement.
+Convene is a modern web platform designed to simplify campus event and club management. It provides a centralized system where students can discover events, register online, receive notifications, and track their participation, while organizers can efficiently create events, manage registrations, monitor attendance, and analyze engagement.
 
 The platform aims to replace scattered communication methods such as WhatsApp groups, spreadsheets, emails, and paper-based registrations with a single digital solution.
 
@@ -45,7 +45,7 @@ These challenges result in:
 - Poor communication between clubs and students
 - Lack of event performance analytics
 
-EventSphere addresses these challenges through an integrated digital event management platform.
+Convene addresses these challenges through an integrated digital event management platform.
 
 ---
 
@@ -126,7 +126,7 @@ To become the preferred digital platform for managing campus events by providing
 
 # 📈 Success Metrics
 
-The success of EventSphere will be measured using the following indicators:
+The success of Convene will be measured using the following indicators:
 
 - Increase student participation in campus events
 - Reduce manual registration work
@@ -176,7 +176,7 @@ The success of EventSphere will be measured using the following indicators:
 # 📂 Project Structure
 
 ```
-EventSphere/
+Convene/
 │
 ├── backend/
 ├── frontend/
@@ -218,19 +218,19 @@ main
 ### Clone Repository
 
 ```bash
-git clone https://github.com/sahunehi13/EventSphere.git
+git clone https://github.com/sahunehi13/Convene.git
 ```
 
 ### Navigate to Project
 
 ```bash
-cd EventSphere
+cd Convene
 ```
 
 ### Build Docker Image
 
 ```bash
-docker build -t eventsphere .
+docker build -t Convene .
 ```
 
 ### Run Docker
