@@ -1,0 +1,6 @@
+Convene Figma Prototype
+
+Figma Prototype:
+https://www.figma.com/design/EOvqqFF7ows3to2OKf7ebT/convene?node-id=0-1&p=f&t=P08JsPgDrXxZeodp-0
+
+The prototype contains the complete student and organizer workflows, including event discovery, registration, ticketing, event management, analytics, and user management.
